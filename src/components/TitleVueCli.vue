@@ -11,7 +11,9 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 h1{
-    background-color: red;
+    background-color: #41B883;
     color: white;
+    height: 100px;
+    line-height: 100px;
 }
 </style>
